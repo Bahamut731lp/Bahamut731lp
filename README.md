@@ -27,21 +27,41 @@
 </p>
 
 ---
+<table>
+<tbody>
+<tr>
+  <td>
+    <a href="https://github.com/Bahamut731lp/TUL-Materialy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bahamut731lp&repo=TUL-Materialy&theme=github_dark" alt="TUL-Materialy"/></a></td>
+  <td>
+    <a href="https://github.com/Bahamut731lp/SEM2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bahamut731lp&repo=sem2&theme=github_dark" alt="SEM2"/></a>
+  </td>
+  <td>
+    <a href="https://github.com/Bahamut731lp/SH"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bahamut731lp&repo=sh&theme=github_dark" alt="SH"/>
+  </td>
+</tr>
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Bahamut731lp&theme=onestar&no-bg=true&no-frame=true&margin-w=5" alt="My Github Trophies"/>
-</p>
+<tr>
+  <td>
+    <a href="https://github.com/Bahamut731lp/CITE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bahamut731lp&repo=CITE&theme=github_dark" alt="CITE"/></a>
+  </td>
+  <td>
+    <a href="https://github.com/Bahamut731lp/PST"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bahamut731lp&repo=pst&theme=github_dark" alt="PST"/></a>
+  </td>
+  <td>
+    <a href="https://github.com/Bahamut731lp/MTLB"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bahamut731lp&repo=mtlb&theme=github_dark" alt="MTLB"/>
+  </td>
+</tr>
+
+<tr>
+  <td>
+    <a href="https://github.com/Bahamut731lp/semestralni-prace"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bahamut731lp&repo=semestralni-prace&theme=github_dark" alt="semestralni-prace"/></a>
+  </td>
+</tr>
+</tbody>
+</table>
 
 ---
 
-<section>
-  <img style="width:49%; height: 30vh;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bahamut731lp&layout=compact&line_height=25&title_color=FFFFFF&icon_color=1124BB&text_color=FFFFFF&bg_color=0,000428,004e92" alt="my Github Stats"/>
-  
-  <img style="width: 49%; height: 30vh; object-fit: cover" align="center" src="https://github-readme-stats.vercel.app/api?username=Bahamut731lp&include_all_commits=true&count_private=true&show_icons=true&line_height=25&title_color=FFFFFF&icon_color=1124BB&text_color=FFFFFF&bg_color=0,000428,004e92" alt="my Github Stats"/>
-</section>
-
-#
-
-<section>
-  <img src="https://activity-graph.herokuapp.com/graph?username=Bahamut731lp&hide_border=true&area=true&line=FFFFFF&bg_color=000428&area_color=097ae3&color=FFFFFF&point=FFFFFF" align="center" alt="My Github Contributions"/>
-</section>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Bahamut731lp&theme=darkhub" alt="My Github Trophies"/>
+</p>
