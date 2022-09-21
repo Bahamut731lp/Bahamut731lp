@@ -36,6 +36,9 @@
   <td>
     <a href="https://github.com/Bahamut731lp/semestralni-prace"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bahamut731lp&repo=semestralni-prace&theme=github_dark" alt="semestralni-prace"/></a>
   </td>
+    <td>
+    <a href="https://github.com/Bahamut731lp/ALG1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bahamut731lp&repo=alg1&theme=github_dark" alt="ALG1"/></a>
+  </td>
 </tr>
 </tbody>
 </table>
