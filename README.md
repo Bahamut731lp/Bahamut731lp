@@ -13,10 +13,10 @@
   <td>
     <a href="https://github.com/Bahamut731lp/TUL-Materialy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bahamut731lp&repo=TUL-Materialy&theme=github_dark" alt="TUL-Materialy"/></a></td>
   <td>
-    <a href="https://github.com/Bahamut731lp/SEM2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bahamut731lp&repo=sem2&theme=github_dark" alt="SEM2"/></a>
+    <a href="https://github.com/Bahamut731lp/SH"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bahamut731lp&repo=sh&theme=github_dark" alt="SH"/>
   </td>
   <td>
-    <a href="https://github.com/Bahamut731lp/SH"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bahamut731lp&repo=sh&theme=github_dark" alt="SH"/>
+    <a href="https://github.com/Bahamut731lp/SEM2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bahamut731lp&repo=sem2&theme=github_dark" alt="SEM2"/></a>
   </td>
 </tr>
 
@@ -38,6 +38,9 @@
   </td>
     <td>
     <a href="https://github.com/Bahamut731lp/ALG1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bahamut731lp&repo=alg1&theme=github_dark" alt="ALG1"/></a>
+  </td>
+    <td>
+    <a href="https://github.com/Bahamut731lp/SGI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bahamut731lp&repo=sgi&theme=github_dark" alt="SGI"/>
   </td>
 </tr>
 </tbody>
