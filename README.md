@@ -36,12 +36,6 @@
   </td>  
 </tr>
 
-<tr>
-  <td>
-    <a href="https://github.com/Bahamut731lp/ALD"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bahamut731lp&repo=ALD&theme=github_dark&cache_seconds=86400" alt="ALD"/></a>
-  </td>
-</tr>
-
 <tr>  
   <td>
     <a href="https://github.com/Bahamut731lp/SH"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bahamut731lp&repo=sh&theme=github_dark&cache_seconds=86400" alt="SH"/></a>
@@ -50,10 +44,11 @@
   <td>
     <a href="https://github.com/Bahamut731lp/PST"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bahamut731lp&repo=pst&theme=github_dark&cache_seconds=86400" alt="PST"/></a>
   </td>
-
+  
   <td>
-    <a href="https://github.com/Bahamut731lp/semestralni-prace"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bahamut731lp&repo=semestralni-prace&theme=github_dark&cache_seconds=86400" alt="semestralni-prace"/></a>
+    <a href="https://github.com/Bahamut731lp/ALD"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bahamut731lp&repo=ALD&theme=github_dark&cache_seconds=86400" alt="ALD"/></a>
   </td>
+  
 </tr>
 
 <tr>
