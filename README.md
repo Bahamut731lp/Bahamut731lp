@@ -11,62 +11,62 @@
 <tbody>
 <tr>
    <td>
-    <a href="https://github.com/Bahamut731lp/MTLB"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bahamut731lp&repo=mtlb&theme=github_dark" alt="MTLB"/>
+    <a href="https://github.com/Bahamut731lp/MTLB"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bahamut731lp&repo=mtlb&theme=github_dark&cache_seconds=86400" alt="MTLB"/></a>
   </td>
   
   <td>
-    <a href="https://github.com/Bahamut731lp/SEM2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bahamut731lp&repo=sem2&theme=github_dark" alt="SEM2"/></a>
+    <a href="https://github.com/Bahamut731lp/SEM2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bahamut731lp&repo=sem2&theme=github_dark&cache_seconds=86400" alt="SEM2"/></a>
   </td>
   
   <td>
-    <a href="https://github.com/Bahamut731lp/SGI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bahamut731lp&repo=sgi&theme=github_dark" alt="SGI"/>
+    <a href="https://github.com/Bahamut731lp/SGI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bahamut731lp&repo=sgi&theme=github_dark&cache_seconds=86400" alt="SGI"/></a>
   </td>
 </tr>
 
 
 <tr>
   <td>
-    <a href="https://github.com/Bahamut731lp/ALG1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bahamut731lp&repo=alg1&theme=github_dark" alt="ALG1"/></a>
+    <a href="https://github.com/Bahamut731lp/ALG1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bahamut731lp&repo=alg1&theme=github_dark&cache_seconds=86400" alt="ALG1"/></a>
   </td>  
   <td>
-    <a href="https://github.com/Bahamut731lp/ALG2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bahamut731lp&repo=alg2&theme=github_dark" alt="ALG2"/></a>
+    <a href="https://github.com/Bahamut731lp/ALG2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bahamut731lp&repo=alg2&theme=github_dark&cache_seconds=86400" alt="ALG2"/></a>
   </td>
   <td>
-    <a href="https://github.com/Bahamut731lp/ALG1-SAM"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bahamut731lp&repo=alg1-sam&theme=github_dark" alt="ALG1-SAM"/></a>
+    <a href="https://github.com/Bahamut731lp/ALG1-SAM"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bahamut731lp&repo=alg1-sam&theme=github_dark&cache_seconds=86400" alt="ALG1-SAM"/></a>
   </td>  
 </tr>
 
 <tr>
   <td>
-    <a href="https://github.com/Bahamut731lp/ALD"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bahamut731lp&repo=ALD&theme=github_dark" alt="ALD"/></a>
+    <a href="https://github.com/Bahamut731lp/ALD"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bahamut731lp&repo=ALD&theme=github_dark&cache_seconds=86400" alt="ALD"/></a>
   </td>
 </tr>
 
 <tr>  
   <td>
-    <a href="https://github.com/Bahamut731lp/SH"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bahamut731lp&repo=sh&theme=github_dark" alt="SH"/>
+    <a href="https://github.com/Bahamut731lp/SH"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bahamut731lp&repo=sh&theme=github_dark&cache_seconds=86400" alt="SH"/></a>
   </td>
 
   <td>
-    <a href="https://github.com/Bahamut731lp/PST"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bahamut731lp&repo=pst&theme=github_dark" alt="PST"/></a>
+    <a href="https://github.com/Bahamut731lp/PST"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bahamut731lp&repo=pst&theme=github_dark&cache_seconds=86400" alt="PST"/></a>
   </td>
 
   <td>
-    <a href="https://github.com/Bahamut731lp/semestralni-prace"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bahamut731lp&repo=semestralni-prace&theme=github_dark" alt="semestralni-prace"/></a>
+    <a href="https://github.com/Bahamut731lp/semestralni-prace"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bahamut731lp&repo=semestralni-prace&theme=github_dark&cache_seconds=86400" alt="semestralni-prace"/></a>
   </td>
 </tr>
 
 <tr>
   <td>
-    <a href="https://github.com/Bahamut731lp/CITE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bahamut731lp&repo=CITE&theme=github_dark" alt="CITE"/></a>
+    <a href="https://github.com/Bahamut731lp/CITE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bahamut731lp&repo=CITE&theme=github_dark&cache_seconds=86400" alt="CITE"/></a>
   </td>
 
   <td>
-    <a href="https://github.com/Bahamut731lp/PRJC"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bahamut731lp&repo=PRJC&theme=github_dark" alt="PRJC"/></a>
+    <a href="https://github.com/Bahamut731lp/PRJC"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bahamut731lp&repo=PRJC&theme=github_dark&cache_seconds=86400" alt="PRJC"/></a>
   </td> 
   
 <td>
-    <a href="https://github.com/Bahamut731lp/OPS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bahamut731lp&repo=OPS&theme=github_dark" alt="OPS"/></a>
+    <a href="https://github.com/Bahamut731lp/OPS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bahamut731lp&repo=OPS&theme=github_dark&cache_seconds=86400" alt="OPS"/></a>
   </td>
 </tr>
 
