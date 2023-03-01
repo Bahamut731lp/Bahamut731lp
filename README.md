@@ -1,6 +1,6 @@
 <p align="center">
-  <h1 align="center">Hello there!</h1>
   <p align="center">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=Bahamut731lp&theme=darkmode&data=followers,repositories,stars,commits" alt="My Github Profile"/>
     <img src="https://github-profile-trophy.vercel.app/?username=Bahamut731lp&theme=darkhub&column=7&no-bg=true&margin-w=15&no-frame=true" alt="My Github Trophies"/>
   </p>
 </p>
@@ -67,25 +67,6 @@
 
 </tbody>
 </table>
-
----
-
-<h2 align="center">Webdev</h2>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,express,nodejs,deno,electron,webpack" />
-</p>
-
-<h2 align="center">Graphics</h2>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=blender,ps,figma" />
-</p>
-
-<h2 align="center">Utilities</h2>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=atom,bash,vscode,git,github,gitlab" />
-</p>
-
----
 
 <p align="center">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Bahamut731lp?color=004E92&style=for-the-badge&logo=github&label=Follow"/>
