@@ -64,6 +64,12 @@
     <a href="https://github.com/Bahamut731lp/OPS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bahamut731lp&repo=OPS&theme=github_dark&cache_seconds=86400" alt="OPS"/></a>
   </td>
 </tr>
+  
+  <tr>
+    <td>
+      <a href="https://github.com/Bahamut731lp/DPB"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bahamut731lp&repo=DPB&theme=github_dark&cache_seconds=86400" alt="DPB"/></a>
+    </td>
+  </tr>
 
 </tbody>
 </table>
