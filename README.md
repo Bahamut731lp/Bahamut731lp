@@ -69,6 +69,9 @@
     <td>
       <a href="https://github.com/Bahamut731lp/DPB"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bahamut731lp&repo=DPB&theme=github_dark&cache_seconds=86400" alt="DPB"/></a>
     </td>
+    <td>
+      <a href="https://github.com/Bahamut731lp/PJPA"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bahamut731lp&repo=PJPA&theme=github_dark&cache_seconds=86400" alt="PJPA"/></a>
+    </td>
   </tr>
 
 </tbody>
