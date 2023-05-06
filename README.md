@@ -5,9 +5,7 @@
   </p>
 </p>
 
----
-<h2 align="center">TUL</h2>
-<table>
+<table align="center">
 <tbody>
 <tr>
    <td>
@@ -72,6 +70,9 @@
     <td>
       <a href="https://github.com/Bahamut731lp/PJPA"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bahamut731lp&repo=PJPA&theme=github_dark&cache_seconds=86400" alt="PJPA"/></a>
     </td>
+    <td>
+      <a href="https://github.com/Bahamut731lp/STIN"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bahamut731lp&repo=STIN&theme=github_dark&cache_seconds=86400" alt="PJPA"/></a>
+    </td>
   </tr>
 
 </tbody>
@@ -79,6 +80,7 @@
 
 <p align="center">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Bahamut731lp?color=004E92&style=for-the-badge&logo=github&label=Follow"/>
+    <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/bahamut731lp?color=004E92&style=for-the-badge">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/badge/Pavel%20Vácha-Burezant-004E92?style=for-the-badge"/>
 </p>
 
