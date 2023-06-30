@@ -19,11 +19,13 @@
   <td>
     <a href="https://github.com/Bahamut731lp/SGI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bahamut731lp&repo=sgi&theme=github_dark&cache_seconds=86400" alt="SGI"/></a>
   </td>
+</tr>
+
+<tr>
   <td>
     <a href="https://github.com/Bahamut731lp/USA"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bahamut731lp&repo=usa&theme=github_dark&cache_seconds=86400" alt="USA"/></a>
   </td>
 </tr>
-
 
 <tr>
   <td>
