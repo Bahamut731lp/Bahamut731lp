@@ -85,5 +85,6 @@
 
 <p align="center">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/badge/Pavel%20Vácha-Burezant-004E92?style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=Bahamut731lp&style=for-the-badge&color=004E92" alt="Profile Views">
 </p>
 
