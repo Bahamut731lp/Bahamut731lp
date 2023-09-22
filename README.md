@@ -25,6 +25,12 @@
   <td>
     <a href="https://github.com/Bahamut731lp/USA"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bahamut731lp&repo=usa&theme=github_dark&cache_seconds=86400" alt="USA"/></a>
   </td>
+  <td>
+    <a href="https://github.com/Bahamut731lp/PG1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bahamut731lp&repo=pg1&theme=github_dark&cache_seconds=86400" alt="PG1"/></a>
+  </td>
+  <td>
+    <a href="https://github.com/Bahamut731lp/STIN"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bahamut731lp&repo=STIN&theme=github_dark&cache_seconds=86400" alt="PJPA"/></a>
+  </td>
 </tr>
 
 <tr>
@@ -76,7 +82,7 @@
       <a href="https://github.com/Bahamut731lp/PJPA"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bahamut731lp&repo=PJPA&theme=github_dark&cache_seconds=86400" alt="PJPA"/></a>
     </td>
     <td>
-      <a href="https://github.com/Bahamut731lp/STIN"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bahamut731lp&repo=STIN&theme=github_dark&cache_seconds=86400" alt="PJPA"/></a>
+      <a href="https://github.com/Bahamut731lp/MT"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bahamut731lp&repo=mt&theme=github_dark&cache_seconds=86400" alt="MT"/></a>
     </td>
   </tr>
 
