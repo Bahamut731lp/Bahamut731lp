@@ -49,6 +49,9 @@
   <td>
     <a href="https://github.com/Bahamut731lp/PG1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bahamut731lp&repo=pg1&theme=github_dark&cache_seconds=86400" alt="PG1"/></a>
   </td>
+  <td>
+    <a href="https://github.com/Bahamut731lp/WEA"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bahamut731lp&repo=wea&theme=github_dark&cache_seconds=86400" alt="WEA"/></a>
+  </td>
 </tr>
 
 <tr>
