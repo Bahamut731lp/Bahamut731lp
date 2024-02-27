@@ -84,15 +84,27 @@
   </td>
 </tr>
   
+<tr>
+  <td>
+    <a href="https://github.com/Bahamut731lp/DPB"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bahamut731lp&repo=DPB&theme=github_dark&cache_seconds=86400" alt="DPB"/></a>
+  </td>
+    <td>
+    <a href="https://github.com/Bahamut731lp/TPB"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bahamut731lp&repo=tpb&theme=github_dark&cache_seconds=86400" alt="TPB"/></a>
+  </td>
+  <td>
+    <a href="https://github.com/Bahamut731lp/PJPA"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bahamut731lp&repo=PJPA&theme=github_dark&cache_seconds=86400" alt="PJPA"/></a>
+  </td>
+</tr>
+
   <tr>
     <td>
-      <a href="https://github.com/Bahamut731lp/DPB"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bahamut731lp&repo=DPB&theme=github_dark&cache_seconds=86400" alt="DPB"/></a>
+      <a href="https://github.com/Bahamut731lp/UZO"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bahamut731lp&repo=uzo&theme=github_dark&cache_seconds=86400" alt="UZO"/></a>
     </td>
       <td>
-      <a href="https://github.com/Bahamut731lp/TPB"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bahamut731lp&repo=tpb&theme=github_dark&cache_seconds=86400" alt="TPB"/></a>
+      <a href="https://github.com/Bahamut731lp/PDO"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bahamut731lp&repo=pdo&theme=github_dark&cache_seconds=86400" alt="PDO"/></a>
     </td>
     <td>
-      <a href="https://github.com/Bahamut731lp/PJPA"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bahamut731lp&repo=PJPA&theme=github_dark&cache_seconds=86400" alt="PJPA"/></a>
+      <a href="https://github.com/Bahamut731lp/PG2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bahamut731lp&repo=pg2&theme=github_dark&cache_seconds=86400" alt="PG2"/></a>
     </td>
   </tr>
 
